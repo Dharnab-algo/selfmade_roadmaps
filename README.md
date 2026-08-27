@@ -1,4 +1,4 @@
-# ICPC + GSoC + Google SWE Roadmap 🚀
+# ICPC + GSoC + Google SWE Roadmap + internship
 
 A structured, semester-wise roadmap for a CSE student aiming to:
 - Compete in **ICPC** (regionals → world finals push)
@@ -60,3 +60,68 @@ Progress > perfection. Consistency is the real edge here.
 ## 📜 License
 
 Feel free to fork, adapt, and use this roadmap for your own journey.
+
+============================================================================================================================================================================================
+# 📍 BTech CSE Roadmap — 1st Sem se Job tak
+
+Ye roadmap ek complete sem-wise plan hai jo 1st year 1st sem se start hoke final placement/job tak guide karta hai — jisme **3-5 internships** karna bhi included hai.
+
+---
+
+## 📂 Iss Repo/Folder me kya hai
+
+| File | Kya hai |
+|------|---------|
+| `BTech_CSE_Roadmap.md` | Full sem-wise roadmap (Sem 1 se Sem 8 tak) |
+
+---
+
+## 🎯 Iska Goal
+
+- 2nd sem se hi skill-building start karna
+- 3rd sem se internship apply karna shuru karna
+- Har sem me 1 internship + 1-2 projects target karna
+- Final year tak 3-5 internships complete karke job-ready banna
+
+---
+
+## 🗺️ Roadmap Overview
+
+| Semester | Focus | Internship |
+|----------|-------|-----------|
+| 1st | Language + fundamentals | — |
+| 2nd | DSA start + web basics | — |
+| 3rd | Stack depth + projects | #1 |
+| 4th | OS/CN/DBMS | #2 |
+| 5th | Advanced DSA + system design | #3 (paid) |
+| 6th | Interview prep + placement | #4-5 |
+| 7th-8th | Job hunt | **Job** |
+
+*(Full detail `BTech_CSE_Roadmap.md` file me hai)*
+
+---
+
+## ✅ Kaise Use Karo
+
+1. Har sem start hone se pehle us sem ka section padho
+2. Us sem ke "Target" ko apna checklist bana lo
+3. Sem end me review karo — kya complete hua, kya reh gaya
+4. Agla sem ka plan uske hisaab se adjust karo
+
+---
+
+## 📌 Current Status
+
+- [x] 1st Sem started (1 week done)
+- [ ] Language pakki (C++/Python)
+- [ ] Git/GitHub setup
+- [ ] LinkedIn + GitHub profile ready
+- [ ] 100+ basic coding problems solved
+
+*(Isko khud update karte raho jaise progress hoti jaye)*
+
+---
+
+## 👤 Owner
+Apna naam, LinkedIn, GitHub yaha daal do jab profile ready ho jaye.
+
