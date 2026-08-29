@@ -1,4 +1,4 @@
-# ICPC + GSoC + Google SWE Roadmap + internship
+# ICPC + GSoC + Google SWE Roadmap + internship+freelancing
 
 A structured, semester-wise roadmap for a CSE student aiming to:
 - Compete in **ICPC** (regionals → world finals push)
@@ -120,8 +120,59 @@ Ye roadmap ek complete sem-wise plan hai jo 1st year 1st sem se start hoke final
 
 *(Isko khud update karte raho jaise progress hoti jaye)*
 
+
+# 🚀 Coding Freelancing Roadmap
+
+A step-by-step roadmap to go from **beginner to freelancer** in web development — structured across 2 semesters (12 months).
+
+## 📌 About
+
+Ye roadmap un students/beginners ke liye hai jo coding seekh kar freelancing start karna chahte hain. Isme HTML/CSS se leke MERN stack aur client handling tak sab cover kiya gaya hai.
+
+## 🗂️ Roadmap Overview
+
+### Semester 1 — Foundation
+| Month | Focus |
+|-------|-------|
+| 1 | HTML5 & CSS3 basics |
+| 2 | JavaScript fundamentals |
+| 3 | Git, GitHub & dev tools |
+| 4 | React.js + Tailwind CSS |
+| 5-6 | Backend (Node.js, Express, MongoDB/MySQL) |
+
+### Semester 2 — Advanced + Freelancing
+| Month | Focus |
+|-------|-------|
+| 7 | Full-stack project + portfolio |
+| 8 | Deployment & real-world integrations |
+| 9 | Start on Fiverr/Upwork |
+| 10 | Client handling & niche selection |
+| 11 | TypeScript, testing, optimization |
+| 12 | Scaling — rates, branding, referrals |
+
+## 🛠️ Tech Stack Covered
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB, MySQL
+- **Tools:** Git, GitHub, VS Code, Chrome DevTools
+- **Deployment:** Vercel, Netlify, Render
+- **Freelancing Platforms:** Fiverr, Upwork
+
+## ✅ Quick Tips
+- Roz code likho — tutorial hell se bacho
+- GitHub profile active rakho, ye trust build karta hai
+- Patience rakho — pehla client milne mein 1-2 mahine lag sakte hain
+
+## 📄 Full Details
+
+Poora detailed roadmap [`Coding_Freelancing_Roadmap.md`](./Coding_Freelancing_Roadmap.md) file mein hai.
+
+---
+
+⭐ Agar ye roadmap helpful laga toh star zaroor de dena!
+
 ---
 
 ## 👤 Owner
-Apna naam, LinkedIn, GitHub yaha daal do jab profile ready ho jaye.
+dharnab thakuria
 
