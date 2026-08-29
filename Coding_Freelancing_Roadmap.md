@@ -68,6 +68,4 @@
 ---
 
 ## Quick Tips
-- Roz code likho, sirf videos mat dekho — "tutorial hell" se bacho
-- GitHub profile active rakho, ye trust build karta hai
-- Fiverr/Upwork pe pehle gig ke liye patience rakho, 1-2 mahine lag sakte hain
+-never give up
